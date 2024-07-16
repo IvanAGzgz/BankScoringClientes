@@ -1,6 +1,3 @@
-
-Aquí tienes un resumen actualizado que incluye los aspectos de clasificación y clusterización para tu repositorio de GitHub:
-
 Análisis Predictivo de Scoring de Clientes para Banca Comercial
 Este proyecto de Machine Learning se centra en el análisis de datos de un banco comercial para desarrollar modelos predictivos y de segmentación de clientes. El objetivo principal es predecir si un cliente contratará fondos de inversión y segmentar a los clientes en diferentes clusters basados en sus características.
 

@@ -1,4 +1,5 @@
-📊 Análisis Predictivo de Scoring de Clientes para Banca Comercial 🏦
+📊 Análisis Predictivo de Scoring de Clientes para Banca Comercial 🏦.
+
 Este proyecto de Machine Learning se centra en el análisis de datos de un banco comercial para desarrollar modelos predictivos y de segmentación de clientes. El objetivo principal es predecir si un cliente contratará fondos de inversión y segmentar a los clientes en diferentes clusters basados en sus características.
 
 El proyecto incluye:
@@ -11,5 +12,5 @@ El proyecto incluye:
 - 🗂️ Resultados del Modelo de Clusterización: Identificación de segmentos clave de clientes para estrategias de marketing personalizadas.
 
 Resultados
-Modelo de Clasificación: El modelo predictivo desarrollado proporciona un scoring preciso del 74%, permitiendo al banco identificar a los clientes con mayor probabilidad de contratar fondos de inversión. Esto facilita la toma de decisiones estratégicas y la personalización de ofertas de productos financieros.
-Modelo de Clusterización: Los clusters identificados permiten una segmentación eficaz de los clientes, ayudando al banco a diseñar campañas de marketing más efectivas y dirigidas.
+- Modelo de Clasificación: El modelo predictivo desarrollado proporciona un scoring preciso del 74%, permitiendo al banco identificar a los clientes con mayor probabilidad de contratar fondos de inversión. Esto facilita la toma de decisiones estratégicas y la personalización de ofertas de productos financieros.
+- Modelo de Clusterización: Los clusters identificados permiten una segmentación eficaz de los clientes, ayudando al banco a diseñar campañas de marketing más efectivas y dirigidas.

@@ -1,3 +1,4 @@
+import cloudpickle
 import pandas as pd
 
 import warnings

@@ -1,4 +1,4 @@
-📊 Análisis Predictivo de Scoring de Clientes para Banca Comercial + Aplicación web interactiva 🏦.
+📊 Scoring de Clientes  + Aplicación web interactiva 🏦.
 
 Este proyecto de Machine Learning se centra en el análisis de datos de un banco comercial para desarrollar modelos predictivos y de segmentación de clientes. El objetivo principal es predecir si un cliente contratará fondos de inversión y segmentar a los clientes en diferentes clusters basados en sus características.
 

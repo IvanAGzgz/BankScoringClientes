@@ -100,4 +100,4 @@ if st.sidebar.button('¿CONTRATA FONDOS?'):
             """)
 
 else:
-    st.write('DEFINE LOS PARÁMETROS DEL CLIENTE Y HAZ CLICK EN CALCULAR RIESGO')
+    st.write('DEFINE LOS PARÁMETROS DEL CLIENTE')

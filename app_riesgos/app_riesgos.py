@@ -11,11 +11,11 @@ st.set_page_config(
 with st.sidebar:
     image_path = 'finanzas-integradas.jpg'
 
-     try:
+    try:
          st.image(image_path)
-     except FileNotFoundError:
+    except FileNotFoundError:
          st.error(f"No se encontró el archivo {image_path}")
-     except Exception as e:
+    except Exception as e:
          st.error(f"Error al cargar la imagen: {e}")
 
 

@@ -10,7 +10,7 @@ El proyecto incluye:
 - 📈 Resultados del Modelo de Clasificación: El modelo final alcanzó una precisión del 74% en la predicción de la contratación de fondos por parte de los clientes.
 - 🔬 Desarrollo del Modelo de Clusterización: Aplicación de técnicas de clusterización para segmentar a los clientes en grupos homogéneos basados en sus características.
 - 🗂️ Resultados del Modelo de Clusterización: Identificación de segmentos clave de clientes para estrategias de marketing personalizadas.
-- 📲 Aplicación de Visualización con Streamlit: Se ha desarrollado una aplicación web interactiva utilizando Streamlit que permite visualizar y explorar los resultados del modelo predictivo. Esta aplicación facilita a los usuarios del banco analizar las predicciones y segmentaciones de manera intuitiva.
+- 📲 Aplicación de Visualización con Streamlit: Se ha desarrollado una aplicación web interactiva utilizando Streamlit que permite visualizar y explorar los resultados del modelo predictivo. Esta aplicación facilita a los usuarios del banco analizar las predicciones y segmentaciones de manera intuitiva: https://machinelearning-dstokp986qnlwtsq5uyecf.streamlit.app/
 
 Resultados
 - Modelo de Clasificación: El modelo predictivo desarrollado proporciona un scoring preciso del 74%, permitiendo al banco identificar a los clientes con mayor probabilidad de contratar fondos de inversión. Esto facilita la toma de decisiones estratégicas y la personalización de ofertas de productos financieros.

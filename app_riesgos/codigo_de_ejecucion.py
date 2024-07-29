@@ -4,7 +4,7 @@ import pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
 
-os.chdir('app_riesgos')
+os.chdir('/mount/src/machinelearning/app_riesgos')
 
 def ejecutar_modelos(df):
     # Ruta correcta al archivo pickle

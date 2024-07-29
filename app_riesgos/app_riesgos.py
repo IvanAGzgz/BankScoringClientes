@@ -64,7 +64,7 @@ if st.sidebar.button('¿CONTRATA FONDOS?'):
     st.metric(label = 'Probabilidad de que el cliente adquiera fondos:', value = scoring_porcentaje_final)
 
     #MAL CLIENTE
-    if scoring_porcentaje <= 15:
+    if scoring_porcentaje <= 20:
         col1, col2 = st.columns(2)
         with col1:
             st.image('x.png')
@@ -76,7 +76,7 @@ if st.sidebar.button('¿CONTRATA FONDOS?'):
             """)
 
 # Cliente Dudoso
-    if 15 < scoring_porcentaje < 25:
+    if 20 < scoring_porcentaje < 30:
         col1, col2 = st.columns(2)
         with col1:
             st.image('interrogante.png')
@@ -88,7 +88,7 @@ if st.sidebar.button('¿CONTRATA FONDOS?'):
             """)
 
     # Buen Cliente
-    if scoring_porcentaje >= 25:
+    if scoring_porcentaje >= 30:
         col1, col2 = st.columns(2)
         with col1:
             st.image('tick_verde.png')

@@ -2,18 +2,6 @@ from codigo_de_ejecucion import *
 import streamlit as st
 import os
 
-# Función para imprimir el directorio de trabajo y su contenido
-def imprimir_directorio_actual():
-    directorio_actual = os.getcwd()
-    contenido_directorio = os.listdir(directorio_actual)
-    return directorio_actual, contenido_directorio
-
-# Mostrar el directorio de trabajo y el contenido en Streamlit
-st.write("Directorio actual:", os.getcwd())
-st.write("Contenido del directorio actual:", os.listdir(os.getcwd()))
-
-# Aquí va el resto de tu código de aplicación
-
 #CONFIGURACION DE LA PÁGINA
 st.set_page_config(
      page_title = 'Prediccion clientes',

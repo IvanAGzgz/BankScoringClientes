@@ -13,5 +13,5 @@ El proyecto incluye:
 - 📲 Aplicación de Visualización con Streamlit: Se ha desarrollado una aplicación web interactiva utilizando Streamlit que permite visualizar y explorar los resultados del modelo predictivo. Esta aplicación facilita a los usuarios del banco analizar las predicciones y segmentaciones de manera intuitiva: https://machinelearning-dstokp986qnlwtsq5uyecf.streamlit.app/
 
 Resultados
-- Modelo de Clasificación: El modelo predictivo desarrollado proporciona un scoring preciso del 74%, permitiendo al banco identificar a los clientes con mayor probabilidad de contratar fondos de inversión. Esto facilita la toma de decisiones estratégicas y la personalización de ofertas de productos financieros.
+- Modelo de Clasificación: El modelo predictivo desarrollado proporciona un AUC del 74%, permitiendo al banco identificar a los clientes con mayor probabilidad de contratar fondos de inversión. Esto facilita la toma de decisiones estratégicas y la personalización de ofertas de productos financieros.
 - Modelo de Clusterización: Los clusters identificados permiten una segmentación eficaz de los clientes, ayudando al banco a diseñar campañas de marketing más efectivas y dirigidas.

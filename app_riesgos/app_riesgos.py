@@ -104,4 +104,4 @@ if st.sidebar.button('¿CONTRATA FONDOS?'):
             """)
 
 else:
-    st.write('DEFINE LOS PARÁMETROS DEL CLIENTE')
+    st.write('DEFINE LOS PARÁMETROS DEL CLIENTE Y HAZ CLICK EN: ¿CONTRATA FONDOS?')

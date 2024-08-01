@@ -34,6 +34,9 @@ with st.sidebar:
 
 
 #MAIN
+st.write('Apliación web que calcula si el cliente contratará fondos a partir de las variables seleccionadas')
+st.write('Se basa en un modelo de Machine Learning el cual puedes consultar en: [https://github.com/IvanAGzgz/MachineLearning](https://github.com/IvanAGzgz/MachineLearning)')
+
 st.title('¿CONTRATARÁ FONDOS EL CLIENTE?')
 
 
